@@ -1,5 +1,21 @@
 body{
+    font-family: 'Times New Roman', Times, serif;
     margin: 0;
-    background: yellowgreen;
+    background: lightgrey;
     text-align: center;
+}
+#titulo{
+    font-size: x-large;
+}
+#datosP{
+    width: 40%;
+    text-align: left;
+    margin-left: 5%;
+    border: 1px solid black;
+}
+#datosE{
+    width: 40%;
+    text-align: left;
+    margin-left: 5%;
+    border: 1px solid black;
 }
